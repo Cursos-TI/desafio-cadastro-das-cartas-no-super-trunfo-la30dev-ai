@@ -2,7 +2,6 @@
 #include <string.h>
 
 int main(){
-<<<<<<< HEAD
   //Variáveis da carta 1
   char estado1 = 'A';
   char codigo1[3] = "A1";
@@ -84,18 +83,5 @@ int main(){
   printf("Número de Pontos Turísticos:%d\n",pontos_turisticos2);
 
   /*Fim do código*/
-=======
-  char estado = "A";
-  int codigo = 1;
-  char cidade[20] = "A";
-  int populacao = 1;
-  float area = 0.00;
-  float pib = 0.00;
-  int pontos = 0;
-  printf("Digite uma letra para o Estado:\n");
-  scanf("%c",&estado);
-  printf("Digite um número para o código do Estado:\n");
-  scanf('%d',&codigo);
->>>>>>> 02e0192e4801eec885a5c10cd051a525e93b5be7
   return 0;
 }
