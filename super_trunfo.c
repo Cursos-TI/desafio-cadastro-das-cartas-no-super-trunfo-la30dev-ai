@@ -63,6 +63,7 @@ int main(){
   scanf("%d",&pontos_turisticos2);
 
   printf("\n"); // Quebra uma linha pra formatar melhor;
+  
   //Imprime os dados da carta 1;
   printf("CARTA 1:\n");
   printf("Estado:%c\n",estado1);
